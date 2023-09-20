@@ -1,18 +1,3 @@
-<!--
-**emils001/emils001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Emils 👋
 My tech journey began with a fascination for HTML and CSS, building websites as a hobby. I wanted to bring my ideas to life, and coding became my canvas. Python quickly became my ally, enabling me to automate tasks, create interactive chatbots, and build GUI applications.
 
@@ -60,7 +45,7 @@ Let's connect and discuss tech or potential collaborations!
 ##  
 ### 📁 My portfolio:
 - [The repository](https://github.com/emils001/coding-portfolio) with my coding projects.
-- [My Codewars account](https://www.codewars.com/users/eemils) with the exercises I have solved.
+- [My Codewars account](https://www.codewars.com/users/eemils) with the coding exercises I have solved (Under the Kata section).
 
 ##  
 ### 📫 How to reach me:
