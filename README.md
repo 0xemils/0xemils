@@ -20,7 +20,8 @@ I'm excited to continue this incredible journey in the IT world, always seeking 
 
 Let's connect and discuss tech or potential collaborations!
 
-## 👨‍💻 I am working with:
+##  
+### 👨‍💻 I am working with:
 <div display="flex">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
@@ -49,17 +50,20 @@ Let's connect and discuss tech or potential collaborations!
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-## 🌱 I’m learning
+##  
+### 🌱 I’m learning
 <div display="flex">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
 
-## 📁 My portfolio:
+##  
+### 📁 My portfolio:
 - [The repository](https://github.com/emils001/coding-portfolio) with my coding projects.
 - [My Codewars account](https://www.codewars.com/users/eemils) with the exercises I have solved.
 
-## 📫 How to reach me:
+##  
+### 📫 How to reach me:
 <div display="flex">
     <a href="mailto:emils.bagirovs@proton.me">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
