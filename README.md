@@ -50,8 +50,8 @@ Let's connect and discuss collaborations!
 ##  
 ### 📫 How to reach me:
 <div display="flex">
-    <a href="mailto:emils.bagirovs@proton.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+    <a href="mailto:emils.bagirovs@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://www.linkedin.com/in/emilsb">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
