@@ -3,7 +3,7 @@ My tech journey began with a fascination for HTML and CSS, building websites as 
 
 I'm excited to continue this incredible journey in the IT world, always seeking new challenges and opportunities to learn and grow. I'm a dedicated team player, eager for problem-solving and ensuring a clear document flow. 
 
-Let's connect and discuss tech or potential collaborations!
+Let's connect and discuss collaborations!
 
 ##  
 ### 👨‍💻 I am working with:
