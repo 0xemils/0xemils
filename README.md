@@ -1,9 +1,4 @@
 # Hi, I'm Emils 👋
-My tech journey began with a fascination for HTML and CSS, building websites as a hobby. I wanted to bring my ideas to life, and coding became my canvas. Python quickly became my ally, enabling me to automate tasks, create interactive chatbots, and build GUI applications.
-
-I'm excited to continue this incredible journey in the IT world, always seeking new challenges and opportunities to learn and grow. I'm a dedicated team player, eager for problem-solving and ensuring a clear document flow. 
-
-Let's connect and discuss collaborations!
 
 ##  
 ### 👨‍💻 I am working with:
